@@ -1,8 +1,9 @@
 
 <h1>My keeper-App</h1>
 <p> This projects includes:</p>
-<p> 1.add note functionality for remember things </p>
-<p> 2.delete note functionality for remove note from the list</p>
+<p> 1. add note functionality for remember things </p>
+<p> 2. delete note functionality for remove note from the list</p>
+<img src="images/img1.PNG" />
 <h3>What I have learned:</h3>
 <ul>
   <li>React Props</li>  
